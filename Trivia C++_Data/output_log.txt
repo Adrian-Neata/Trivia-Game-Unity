@@ -1,0 +1,80 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4055 MB
+    Driver:   23.21.13.9125
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\System.Data.dll (this message is harmless)
+Loading E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.133900 ms
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.942000 ms
+Platform assembly: E:\GitHub_Repositories\Trivia-Game-Unity\Trivia C++_Data\Managed\System.Transactions.dll (this message is harmless)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.448800 ms (FindLiveObjects: 0.125900 ms CreateObjectMapping: 0.016100 ms MarkObjects: 0.286700 ms  DeleteObjects: 0.019500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.469700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.371200 ms (FindLiveObjects: 0.035900 ms CreateObjectMapping: 0.013300 ms MarkObjects: 0.312600 ms  DeleteObjects: 0.008400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.481000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.362400 ms (FindLiveObjects: 0.034400 ms CreateObjectMapping: 0.010400 ms MarkObjects: 0.298100 ms  DeleteObjects: 0.018600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.479100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.370500 ms (FindLiveObjects: 0.035300 ms CreateObjectMapping: 0.011400 ms MarkObjects: 0.315900 ms  DeleteObjects: 0.007300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.473200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.358300 ms (FindLiveObjects: 0.032500 ms CreateObjectMapping: 0.022100 ms MarkObjects: 0.295600 ms  DeleteObjects: 0.007300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.466900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.354300 ms (FindLiveObjects: 0.034600 ms CreateObjectMapping: 0.010200 ms MarkObjects: 0.301100 ms  DeleteObjects: 0.007700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.510500 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.291200 ms (FindLiveObjects: 0.029400 ms CreateObjectMapping: 0.009900 ms MarkObjects: 0.237000 ms  DeleteObjects: 0.013900 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 43e0 -> priority: 1 
+  Thread -> id: 1fec -> priority: 1 
